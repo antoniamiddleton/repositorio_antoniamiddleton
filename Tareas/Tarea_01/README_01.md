@@ -18,6 +18,8 @@ Los colores de alto contraste y los gráficos ilustrativos facilitan la comprens
 3. **Interactividad:**
 Personalmente, considero que gran parte del atractivo del webstory yace en su interactividad. La capacidad de filtrar por la empresa, la entidad y la información que entrega de éstas hace que como lector nos interesemos en el tema y la presentación de datos que, en otro formato, serían tediosos y complejos de leer.
 
+<img src=https://github.com/antoniamiddleton/repositorio_antoniamiddleton/blob/main/Tareas/Tarea_01/AUDIOVISUAL/001.png>
+
 ### Análisis de la **efectividad**
 El reportaje es exitoso en distintos aspectos:
 1. **Transparencia:**
@@ -27,5 +29,7 @@ Como describí previamente, la visualización de la página, junto a una interfa
 3. **Impacto político:**
 El reportaje logró hallar múltiples contratos y relaciones entre empresas y el estado que eran sospechosos, resultados que fueron destacados por jueces peruanos e incentivaron que periodistas iniciaran investigaciones al respecto.
 
+<img src=https://github.com/antoniamiddleton/repositorio_antoniamiddleton/blob/main/Tareas/Tarea_01/AUDIOVISUAL/001.png>
+
 ### Pensamientos finales
-Personalmente, este webstory me pareció que era un proyecto que aportaba muchísimo en la construcción de la democracia peruana. La transparencia, especialmente la económica, siempre es compleja de presentar y de entender. Por esto mismo que la propuesta me parece tan valiosa, porque es una herramienta que logra simplificar la comprensión, investigación y fiscalización del estado.
+Personalmente, me pareció que este webstory era un proyecto que aportaba muchísimo en la construcción de la democracia peruana. La transparencia, especialmente la económica, siempre es compleja de presentar y de entender. Por esto mismo que la propuesta me parece tan valiosa, porque es una herramienta que logra simplificar la comprensión, investigación y fiscalización del estado.
