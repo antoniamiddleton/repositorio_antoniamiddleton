@@ -5,4 +5,7 @@
 
 Desarrollado por *Ojo Público*, el proyecto peruano de **Funes** se presenta como un algoritmo que clasifica y analiza miles de documentos públicos en búsqueda de posibles contratos corruptos. 
 
-Basándose en un modelo europeo de análisis de riesgos de probidad, esta herramienta periodística considera 20 factores de riesgo, como la antiguedad de los contratistas o los tipos de concursos, para ilustrar en una plataforma interactiva como el periodismo investigativo puede desarrollarse de una manera automatizada.
+Basándose en un modelo europeo de análisis de riesgos de probidad, esta herramienta periodística considera 20 factores de riesgo, como la antiguedad de los contratistas o los tipos de concursos, para ilustrar en una plataforma interactiva **como el periodismo investigativo puede desarrollarse de una manera automatizada**.
+
+### Análisis de la **estructura narrativa**
+La webstory se presenta de una manera equilibrada entre la explicación técnica, la visualización de los datos y la narración periodística.
