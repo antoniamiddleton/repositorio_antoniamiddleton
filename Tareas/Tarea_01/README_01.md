@@ -26,3 +26,6 @@ El proyecto cumple su objetivo al presentar miles de documentos y contratos aloj
 Como describí previamente, la visualización de la página, junto a una interfaz intuitiva, hace que no se requiera una capacitación extra para utilizarla, si no que tanto ciudadanos, como periodistas, pueden utilizar la plataforma en sus investigaciones.
 3. **Impacto político:**
 El reportaje logró hallar múltiples contratos y relaciones entre empresas y el estado que eran sospechosos, resultados que fueron destacados por jueces peruanos e incentivaron que periodistas iniciaran investigaciones al respecto.
+
+### Pensamientos finales
+Personalmente, este webstory me pareció que era un proyecto que aportaba muchísimo en la construcción de la democracia peruana. La transparencia, especialmente la económica, siempre es compleja de presentar y de entender. Por esto mismo que la propuesta me parece tan valiosa, porque es una herramienta que logra simplificar la comprensión, investigación y fiscalización del estado.
