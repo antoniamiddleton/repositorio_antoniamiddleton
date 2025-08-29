@@ -1,1 +1,1 @@
-<img src=C:\Users\antom\OneDrive\Documentos\repositorio_antoniamiddleton\Tareas\Tarea_01\AUDIOVISUAL\gif.gif>
+<img src=https://github.com/antoniamiddleton/repositorio_antoniamiddleton/blob/main/Tareas/Tarea_01/AUDIOVISUAL/gif.gif>
