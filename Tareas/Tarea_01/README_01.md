@@ -15,4 +15,14 @@ La webstory presenta de una manera equilibrada la explicación técnica, la visu
 El reportaje presenta de una forma clara su labor y los resultados obtenidos de ella.
 2. **Visualización**
 Los colores de alto contraste y los gráficos ilustrativos facilitan la comprensión y accesibilidad de la página.
-3.**Interactividad**
+3. **Interactividad**
+Personalmente, considero que gran parte del atractivo del webstory yace en su interactividad. La capacidad de filtrar por la empresa, la entidad y la información que entrega de éstas hace que como lector nos interesemos en el tema y la presentación de datos que, en otro formato, serían tediosos y complejos de leer.
+
+### Análisis de la **efectividad**
+El reportaje es exitoso en distintos aspectos
+1. **Transparencia**
+El proyecto cumple su objetivo al presentar miles de documentos y contratos alojados en 4 bases de datos con rigurosidad.
+2. **Accesibilidad**
+Como describí previamente, la visualización de la página, junto a una interfaz intuitiva, hace que no se requiera una capacitación extra para utilizarla, si no que tanto ciudadanos, como periodistas, pueden utilizar la plataforma en sus investigaciones.
+3. **Impacto político**
+El reportaje logró hallar
