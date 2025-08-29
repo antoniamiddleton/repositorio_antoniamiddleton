@@ -1,6 +1,7 @@
 # Tarea 01: Análisis de una webstory basada en datos
 ## Funes: Un algoritmo contra la corrupción - [URL](https://ojo-publico.com/especiales/funes/)
-<img src="https://C:\Users\antom\OneDrive\Documentos\repositorio_antoniamiddleton\Tareas\Tarea_01\AUDIOVISUAL\Inno_small-0007.png">
+
+<img src="https://github.com/antoniamiddleton/repositorio_antoniamiddleton/blob/main/Tareas/Tarea_01/AUDIOVISUAL/Inno_small-0007.png">
 
 Desarrollado por *Ojo Público*, el proyecto peruano de **Funes** se presenta como un algoritmo que clasifica y analiza miles de documentos públicos en búsqueda de posibles contratos corruptos. 
 
