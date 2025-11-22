@@ -22,3 +22,14 @@ En todos los casos, me inspiré bastante en sus propios .md, usando harto la pes
  Me preocupé de probar varios casos, y cuando no tuve problemas, dí por resuelto el problema.
 
  ## Problema 4: Pseudocódigo, Calculador de perfil. ##
+
+Comencé por escribir los input, con los que ya había recordado como trabajar con el ejercicio anterior. También me apoyé bastante en los *if* y *else* de ejercicios pasados, pero el *pseudocódigo* fue la base sobre la que trabajé principalmente.
+
+Revisando casos particulares, me preocupé de considerar los 18 como mayoría de edad, por lo que puse un *>=*.
+
+También consideré la ortografía, por lo que incluí diversos tipos de `Si`.
+
+Y si no cumple las condiciones tiene una carita triste, espero que se entienda JAJAJA.
+
+## Conclusión ##
+Es bastante entretenido programar cuando las cosas te resultan, cuando no, es bastante frustrante JAJAJA.
