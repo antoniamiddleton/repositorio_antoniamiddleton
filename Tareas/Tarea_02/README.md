@@ -33,3 +33,5 @@ Y si no cumple las condiciones tiene una carita triste, espero que se entienda J
 
 ## Conclusión ##
 Es bastante entretenido programar cuando las cosas te resultan, cuando no, es bastante frustrante JAJAJA.
+
+<img src=https://github.com/antoniamiddleton/repositorio_antoniamiddleton/blob/main/Tareas/Tarea_01/AUDIOVISUAL/pato_tarea 2.png>
